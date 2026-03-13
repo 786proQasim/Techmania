@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+  <!-- Shield + checkmark -->
+  <path d="M30 16 L52 16 L52 40 L41 52 L30 40Z" fill="none" stroke="#003DA5" stroke-width="2.5"/>
+  <path d="M36 32 L40 38 L48 26" stroke="#003DA5" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="154" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="30" fill="#003DA5">GUARD</text>
+</svg>

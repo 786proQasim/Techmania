@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80">
+  <!-- Red umbrella icon -->
+  <path d="M48 10 C36 22 30 34 30 44 C30 52 38 52 44 48" stroke="#C8102E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M34 28 C38 20 46 14 56 14 C66 14 72 20 72 28 C72 28 62 24 54 28 C46 24 34 28 34 28Z" fill="#C8102E"/>
+  <line x1="54" y1="14" x2="54" y2="48" stroke="#C8102E" stroke-width="2.5"/>
+  <text x="176" y="48" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="30" fill="#C8102E">Travelers</text>
+</svg>
